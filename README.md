@@ -52,10 +52,6 @@ dotnet run
 
 6. Open the local URL displayed in the terminal after the application starts.
 
-## Project Structure
-
-`Pages/Index.razor` — contains the primary Query Builder configuration.
-
 ## Support and Feedback
 
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
